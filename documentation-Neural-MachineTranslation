@@ -1,0 +1,28 @@
+Develop a Deep Learning Model to Automatically Translate an ROS form from English to Swahili in Python with Keras, Step-by-Step.
+
+- Data set organisation
+
+-> Pairs of words that appear in ROS forms in English and their translation in Swahili 
+
+what we need is a page like this: except, the phrases will be ROS forms english phrases to another language. 
+
+
+task 1:
+1. find the common english phrases in the ros form that you will transalte.
+2. use tabeo to translate the phrases to swahili. https://tatoeba.org/eng/sentences/search?query=what+is+your+name&from=eng&to=swh
+3. for each phrase that is transalted, save it to a doc
+4. repeat these steps for several languages and save them on a site so you have something like this http://www.manythings.org/anki/.
+
+the goal is to have common ROS form phrases transalted from one language to another.
+these data sets are used to train deep learning models to automatically transalte ROS forms for several languages.
+
+If the models can automatically transalte ROS forms, then we can have programs that are able to aid in Patient to doctor communication in the face of language barrier. 
+
+
+how does the program work - UI?
+
+1. feed the program with a list of phrases of common english words in ROS forms with the translate version of those phrases. Basically the results from task 1.
+
+2. the program will train the model etc
+3. the end result is when you type in a question from the ros form, it automatically translates the question to another language.
+4. determine the performance and accuracy of that transaltion. 
