@@ -9,6 +9,8 @@
     <script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Roboto:400"/>
+
     <title>Translate ROS</title>
 </head>
 
@@ -23,28 +25,55 @@
         </div>
 
         <div class="logo">
-            <h2 class="logo"> <a href="./index.html">UBtutoring</a> </h2>
+            <h2 class="logo"> <a href="./index.html">ROS</a> </h2>
         </div>
 
     </div>
-    <hr class="hr-navbar">
 
     <h1 class="welcome-page-title">ROS FORM TRANSLATION MODEL</h1>
 
-     
-    <div class="route-buttons">
-        <button onclick="window.location.href = './tutorContent/login.php';" class="welcome-page-buttons tutor-button">Enter as a tutor</button>
-        <button onclick="window.location.href = './studentContent/login-student.php';" class="welcome-page-buttons student-button">Enter as a student</button>
+    <div class="page-content"> 
+
+    <label for="lang-select">Select the language of the ROS form:</label>
+
+    <br>
+    <br>
+    <select id="lang-select" class="select-css">
+        <option value="">--Please choose an option--</option>
+        <option value="English">English</option>
+        <option value="language-3">language 2</option>
+        <option value="language-4">language 3</option>
+    </select>
+
+    <br>
+    <br>
+
+    <label for="lang-select">Select the language you wish to translate to:</label>
+
+    <br>
+    <br>
+    <select id="lang-select" class="select-css">
+        <option value="">--Please choose an option--</option>
+        <option value="Hindi">Hindi</option>
+        <option value="Swahili">Swahili</option>
+        <option value="language-3">language 3</option>
+        <option value="language-4">language 4</option>
+    </select>
+
+    <br>
+    <br>
+    <div class="button">
+        <p><a href="model.html">View Model</a></p>
+    </div>
+
     </div>
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="index.js"></script>
     <script>
-        $(document).ready(function() {
 
-
-        });
+       
     </script>
 
 </body>
