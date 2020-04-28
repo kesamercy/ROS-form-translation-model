@@ -1,0 +1,43 @@
+                  :root {
+                     --teal: #b1cddd;
+                     --yellow: #cbcaa5;
+                     --black: #000000;
+                 }
+                 
+                 body {
+                     background-color: white;
+                     color: black;
+                     /* font-family: 'Noto Serif', serif; */
+                     font-family: 'Times New Roman', Times, serif;
+                 }
+                 
+                 .header {
+                     padding-left: 10px;
+                     background-color: black;
+                     color: white;
+                 }
+                 
+                 .menu_welcomePage {
+                     font-family: "Alatsi", sans-serif;
+                     float: right;
+                 }
+                 
+                 ul li {
+                     display: inline;
+                     padding: 30px;
+                 }
+                 
+                 ul li a {
+                     /* color: black; */
+                     text-decoration: none;
+                 }
+                 
+                 ul li a:hover {
+                     text-decoration: underline;
+                 }
+                 
+                 .welcome-page-title {
+                     margin-left: 600px;
+                     margin-top: 200px;
+                     font-size: 50px;
+                 }
