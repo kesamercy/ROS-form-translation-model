@@ -1,82 +1,81 @@
-Any recent chills, night sweats or fever?	Kuumwa , kutokwa majasho usiku au joto lolote hivi majuzi?	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin)
-Have you gained or lost weight without trying?	Je, umeongeza au kupunguza uzani bila kukusudia?	CC-BY 2.0 (France) Attribution: tatoeba.org #538123 (CM) & #380701 (cburgmer)
-Have you been tired?	Je, umewahi kuchoka?	CC-BY 2.0 (France) Attribution: tatoeba.org #538123 (CM) & #659813 (Esperantostern)
-Any dry or itchy areas?	Maeneo yoyote yaliyokauka au yanayowasha?	CC-BY 2.0 (France) Attribution: tatoeba.org #906328 (papabear) & #941078 (Fingerhut)
-Any rashes, bumps, or sores anywhere?	Vipele, majipu au vidonda popote?	CC-BY 2.0 (France) Attribution: tatoeba.org #4008918 (JSakuragi) & #941078 (Fingerhut)
-Do you bruise easily?	Je, wewe huchibuka kwa urahisi?	CC-BY 2.0 (France) Attribution: tatoeba.org #52027 (Zifre) & #2122382 (Pfirsichbaeumchen)
+Any recent chills, night sweats or fever?	Kuumwa , kutokwa majasho usiku au joto lolote hivi majuzi?	 
+Have you gained or lost weight without trying?	Je, umeongeza au kupunguza uzani bila kukusudia?	 
+Have you been tired?	Je, umewahi kuchoka?	
+Any dry or itchy areas?	Maeneo yoyote yaliyokauka au yanayowasha?	
+Any rashes, bumps, or sores anywhere?	Vipele, majipu au vidonda popote?	
+Do you bruise easily?	Je, wewe huchibuka kwa urahisi?	
 Have any of your moles changed in color, shape or size?Any changes in hair or nails?	Je, magamba yako yamegeuka rangi, umbo au ukubwa? Je pamekuwa na mabadiliko katika nyweleau kucha zako?	CC-BY 2.0 (France) Attribution: tatoeba.org #52027 (Zifre) & #2122391 (Pfirsichbaeumchen)
-Have you had any dizziness (room spinning) or light-headedness?	Umewahi kuwa na kisuunzi (kizunguzungu) au kichwa kuwa kizito?	CC-BY 2.0 (France) Attribution: tatoeba.org #1829639 (Spamster) & #1958697 (Tamy)
-Have you fainted or passed out?	Umewahi kuzirai?	CC-BY 2.0 (France) Attribution: tatoeba.org #435084 (lukaszpp) & #575889 (MUIRIEL)
-Do you have headaches? 	Waumwa na kichwa? 	CC-BY 2.0 (France) Attribution: tatoeba.org #435084 (lukaszpp) & #2122375 (Pfirsichbaeumchen)
-Have you ever had any head trauma?	Umewahi kupata mshtuko kichwani?	CC-BY 2.0 (France) Attribution: tatoeba.org #448320 (FeuDRenais) & #626467 (jakov)
-Any problems with your eyes, e.g., itching, burning, watering, discharge, redness, pain?	Matatizo yoyote kwenye macho yako kama vile kuwashwa, kuungua, kutoa machozi, kutoa matongo, kuwa mekundu au kuwa na maumivu?	CC-BY 2.0 (France) Attribution: tatoeba.org #1744314 (belgavox) & #2122378 (Pfirsichbaeumchen)
-Any problems with your vision, e.g., double vision, blurred vision?	Shida katika kuona mfano: kuona vitu viwili viwili, kutokuona vyema?	CC-BY 2.0 (France) Attribution: tatoeba.org #3048304 (camilozeta) & #8597806 (Roujin)
-Do you wear glasses or contacts?	 Je, wewe huvaa miwani au lensi ziwekwazo machoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #6102432 (mailohilohi) & #4942826 (Hans_Adler)
-Any problems with your ears, e.g., ringing, pain, discharge, hearing problems?	Matatizo yoyote kwenye masikio yako kama vile kusikia sauti sikioni, maumivu masikioni, kutoa usaha, matatizo ya kusikia?	CC-BY 2.0 (France) Attribution: tatoeba.org #2230774 (CK) & #6625701 (Felixjp)
-Any history of frequent ear infections?	Matatizo ya awali ya maambukizo ya masikio? 	CC-BY 2.0 (France) Attribution: tatoeba.org #373330 (CK) & #380701 (cburgmer)
-Have you ever had tubes in your ears?	Umewahi kuwekewa mipira kwenye masikio yako?	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin)
-Do you wear a hearing aid?	Je wewe hutumia kifaa cha kukusaidia kusikia vizuri?	CC-BY 2.0 (France) Attribution: tatoeba.org #1182334 (Hideousss) & #131 (MUIRIEL)
-Any problems with your nose, eg, bloody nose, runny nose, congestion, sneezing, change in mucus?	Matatizo yoyote kwenye pua yako? Kama vile mnoga - kutokwa damu puani, makamasi yanayotoka na kutiririka kila wakati, kuzibika kwa pua, kupiga chafya, mabadiliko kwenye makamasi?	CC-BY 2.0 (France) Attribution: tatoeba.org #1182334 (Hideousss) & #1169837 (Haehnchenpaella)
-Any recent sore throat or sores in your mouth?	Vidonda kooni au vidonda mdomoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #5828607 (CK) & #6643977 (Felixjp)
-Any problem with your teeth or gums, e.g., pain, bleeding or loose teeth?	Matatizo ya meno au ufizi kama vile kuuma, kutoka damu au meno kung’oka?	CC-BY 2.0 (France) Attribution: tatoeba.org #2111796 (CK) & #547386 (Espi)
-Any hoarseness?	Kuwasha kwa koo?	CC-BY 2.0 (France) Attribution: tatoeba.org #2111796 (CK) & #5677459 (eric2)
-Any lumps or bumps in your neck?	Vimbe au kufura shingoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #20776 (CK) & #4944510 (Hans_Adler)
-Any soreness, pain or stiffness?	Vidonda, uchungu au kukwama shingoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #2005192 (CK) & #4941621 (Hans_Adler)
-Any pain with movement?	Je, una matatizo yoyote kugeuka kwa shingo?	CC-BY 2.0 (France) Attribution: tatoeba.org #2005192 (CK) & #4941622 (Hans_Adler)
-Relax.	Entspann dich.	CC-BY 2.0 (France) Attribution: tatoeba.org #1722133 (shanghainese) & #3172031 (dinkel_girl)
-Any trouble with breathing or shortness of breath?	Je, una shida yoyote ya kupumua?	CC-BY 2.0 (France) Attribution: tatoeba.org #7422159 (CM) & #1958697 (Tamy)
+Have you had any dizziness (room spinning) or light-headedness?	Umewahi kuwa na kisuunzi (kizunguzungu) au kichwa kuwa kizito?	
+Have you fainted or passed out?	Umewahi kuzirai?	
+Do you have headaches? 	Waumwa na kichwa? 	
+Have you ever had any head trauma?	Umewahi kupata mshtuko kichwani?	
+Any problems with your eyes, e.g., itching, burning, watering, discharge, redness, pain?	Matatizo yoyote kwenye macho yako kama vile kuwashwa, kuungua, kutoa machozi, kutoa matongo, kuwa mekundu au kuwa na maumivu?	
+Any problems with your vision, e.g., double vision, blurred vision?	Shida katika kuona mfano: kuona vitu viwili viwili, kutokuona vyema?	
+Do you wear glasses or contacts?	 Je, wewe huvaa miwani au lensi ziwekwazo machoni?	
+Any problems with your ears, e.g., ringing, pain, discharge, hearing problems?	Matatizo yoyote kwenye masikio yako kama vile kusikia sauti sikioni, maumivu masikioni, kutoa usaha, matatizo ya kusikia?	
+Any history of frequent ear infections?	Matatizo ya awali ya maambukizo ya masikio? 	
+Have you ever had tubes in your ears?	Umewahi kuwekewa mipira kwenye masikio yako?	 
+Do you wear a hearing aid?	Je wewe hutumia kifaa cha kukusaidia kusikia vizuri?	
+Any problems with your nose, eg, bloody nose, runny nose, congestion, sneezing, change in mucus?	Matatizo yoyote kwenye pua yako? Kama vile mnoga - kutokwa damu puani, makamasi yanayotoka na kutiririka kila wakati, kuzibika kwa pua, kupiga chafya, mabadiliko kwenye makamasi?	
+Any recent sore throat or sores in your mouth?	Vidonda kooni au vidonda mdomoni?	
+Any problem with your teeth or gums, e.g., pain, bleeding or loose teeth?	Matatizo ya meno au ufizi kama vile kuuma, kutoka damu au meno kung’oka?	
+Any hoarseness?	Kuwasha kwa koo?	
+Any lumps or bumps in your neck?	Vimbe au kufura shingoni?	
+Any soreness, pain or stiffness?	Vidonda, uchungu au kukwama shingoni?	
+Any pain with movement?	Je, una matatizo yoyote kugeuka kwa shingo?	 
+Any trouble with breathing or shortness of breath?	Je, una shida yoyote ya kupumua?	
 Any shortness of breath with exercise or movement or How far can you walk without having to stop?	Je, una matatizo yoyote kupumua unapofanya mazoezi au unapotembea? 	CC-BY 2.0 (France) Attribution: tatoeba.org #7422159 (CM) & #8597807 (Roujin)
-Any pain when you take a deep breath?	Unatembea umbali gani bila ya kupumzika?	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin)
-Any cough or phlegm production?	Kukohoa kwokote au kuwa na makamasi puani au kooni?	CC-BY 2.0 (France) Attribution: tatoeba.org #2764108 (CK) & #4659632 (AC)
-Have you ever had tuberculosis?	Umewahi kuugua ugonjwa wa kifua kikuu?	CC-BY 2.0 (France) Attribution: tatoeba.org #1972610 (CK) & #5227364 (jaz1313)
-Have you been exposed to anyone with tuberculosis?	Umewahi kutangamana na yeyote anayeugua ugonjwa wa kifua kikuu?	CC-BY 2.0 (France) Attribution: tatoeba.org #1972610 (CK) & #5946689 (list)
-Do you have any chest pains?	Je,una maumivu yoyote kifuani?	CC-BY 2.0 (France) Attribution: tatoeba.org #487006 (human600) & #957535 (Sudajaengi)
-Do you feel like your heart races or skips beats?	Je, wahisi kuwa moyo wako una mapigo ya kasi au hata kukosa mapigo?	CC-BY 2.0 (France) Attribution: tatoeba.org #4768107 (garborg) & #8597873 (Roujin)
-Do you have shortness of breath at rest or with small amounts of exertion?	Je, una upungufu fulani unapopumua?	CC-BY 2.0 (France) Attribution: tatoeba.org #4769344 (garborg) & #8227448 (MisterTrouser)
-Can you lie flat in bed without shortness of breath?	Je, waweza kujilaza twaa kitandani bila ya kuwa na matatizo ya kupumua?	CC-BY 2.0 (France) Attribution: tatoeba.org #2160489 (Dreamk33) & #3155388 (Pfirsichbaeumchen)
-Do you ever awake at night short of breath?	Je, wewe huzinduka usingizini usiku kwa sababu ya tatizo la kupumua?	CC-BY 2.0 (France) Attribution: tatoeba.org #2160489 (Dreamk33) & #3155390 (Pfirsichbaeumchen)
-Have you ever been told you have a heart murmur?	Je, umewahi kuambiwa una shida ya moyo? 	CC-BY 2.0 (France) Attribution: tatoeba.org #320484 (CM) & #5253180 (christian42)
-Have you ever had rheumatic fever?	Je, umewahi kuwa na maumivu ya viungo na kufura / kuvimba viungoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #538123 (CM) & #380701 (cburgmer)
-Any pains in your legs or buttocks when you walk? 	Maumivu yoyote miguuni au makalioni / matakoni unapotembea? 	CC-BY 2.0 (France) Attribution: tatoeba.org #320484 (CM) & #5622431 (list)
-Does it get better when you stop?	Inakua bora unaposimama?	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin) 
-Any loss of hair from your legs or sores that don’t heal?	Kutoweka kwa malaika miguuni au vidonda visivyopona?	CC-BY 2.0 (France) Attribution: tatoeba.org #320484 (CM) & #8597813 (Roujin)
-Any problems with leg swelling or varicose veins?	Je, miguu yako inafura au mshipa mikubwa kujitokeza miguuni?	CC-BY 2.0 (France) Attribution: tatoeba.org #455353 (FeuDRenais) & #455377 (MUIRIEL)
-Any breast lumps, pain or soreness?	Je, una vimbe matitini, uchungu wowote au vidonda vyovyote?	CC-BY 2.0 (France) Attribution: tatoeba.org #455353 (FeuDRenais) & #455452 (Zaghawa)
-Any nipple discharge?	Je, unatoa usaha wowote kwenye chuchu?	CC-BY 2.0 (France) Attribution: tatoeba.org #455353 (FeuDRenais) & #1808892 (Tamy)
-Any rashes, color changes or skin changes?	Je, una vipele, kubadilika kwa rangi matitini au ngozi kubadilika?	CC-BY 2.0 (France) Attribution: tatoeba.org #672229 (CK) & #1401396 (Esperantostern)
-When was your last mammogram?	Ni lini mara ya mwisho kufanyiwa uchunguzi wa matiti yako kubaini iwapo una saratani ya matiti?	CC-BY 2.0 (France) Attribution: tatoeba.org #672229 (CK) & #1401397 (Esperantostern)
-Any belly ache/abdominal pain?	Kuumwa kwa tumbo kwa aina yoyote?	CC-BY 2.0 (France) Attribution: tatoeba.org #1111548 (Scott) & #4659678 (AC)
-Any nausea, vomiting, cramping, diarrhea?	Kichefuchefu chochote, kutapika, tumbo kusokota, kuhara / kuendesha?	CC-BY 2.0 (France) Attribution: tatoeba.org #1852504 (CK) & #1846595 (Pfirsichbaeumchen)
-Any heartburn?	Kiungulia chochote?	CC-BY 2.0 (France) Attribution: tatoeba.org #1852504 (CK) & #1846597 (Pfirsichbaeumchen)
-Any constipation?	Haja ngumu yoyote?	CC-BY 2.0 (France) Attribution: tatoeba.org #1852504 (CK) & #1854006 (Pfirsichbaeumchen)
-Any blood in the stool or black tarry stool? Any food intolerance?	Damu yoyote kwenye haja kubwa / kinyesi? Kutokubalika kwa chakula tumboni?	CC-BY 2.0 (France) Attribution: tatoeba.org #3824714 (CK) & #4942958 (Hans_Adler)
-Any problems with gallstones? 	Damu yoyote kwenye haja kubwa / kinyesi? 	CC-BY 2.0 (France) Attribution: tatoeba.org #3824714 (CK) & #4942959 (Hans_Adler)
-Hepatitis?	Kutokubalika kwa chakula tumboni?	CC-BY 2.0 (France) Attribution: tatoeba.org #538123 (CM) & #380701 (cburgmer)
-Any increase in frequency of urination?	Kuongezeka kwa mara / idadi ya nyakati wa kukojoa?	CC-BY 2.0 (France) Attribution: tatoeba.org #3824714 (CK) & #4942960 (Hans_Adler)
-Do you have to get up at night to urinate? 	Je, wewe huamka na kukojoa usiku? 	CC-BY 2.0 (France) Attribution: tatoeba.org #3824714 (CK) & #4942961 (Hans_Adler)
-How many times?	 Mara ngapi?	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin)
-Do you feel like you need to urinate, then cannot?	Je, wahisi kutaka kukojoa kisha unashindwa kukojoa?	CC-BY 2.0 (France) Attribution: tatoeba.org #3824714 (CK) & #4942963 (Hans_Adler)
-Any pain with urination?	Je, una uchungu wowote unapokojoa?	CC-BY 2.0 (France) Attribution: tatoeba.org #319990 (CK) & #358382 (MUIRIEL)
-Any blood in your urine?	Je, una damu kwenye mkojo wako?	CC-BY 2.0 (France) Attribution: tatoeba.org #3935374 (gianich73) & #3235040 (Manfredo)
-Any pain in your back or flanks?	Una maumivu mgongoni au kiunoni?	CC-BY 2.0 (France) Attribution: tatoeba.org #1755073 (Eldad) & #4659717 (AC)
-Any weakness?	Una upungufu au udhaifu wowote misulini?	CC-BY 2.0 (France) Attribution: tatoeba.org #5828610 (CK) & #7141489 (Luiaard)
-Any joint pain, redness, swelling, heat?	Je, kuvimba au joto misulini?	CC-BY 2.0 (France) Attribution: tatoeba.org #5828610 (CK) & #7141490 (Luiaard)
-Any morning stiffness?	Je, misuli yako hukauka na kuwa migumu wakati wa asubuhi?	CC-BY 2.0 (France) Attribution: tatoeba.org #7290637 (shekitten) & #4781463 (Tamy)
-Any limited movement?	Je, unapungukiwa ukitembea?	CC-BY 2.0 (France) Attribution: tatoeba.org #5828611 (CK) & #7091837 (Luiaard)
-Any muscle cramping or pain?	Je, misuli yako hujisokota na kuwa na uchungu mkali?	CC-BY 2.0 (France) Attribution: tatoeba.org #433763 (CK) & #341452 (MUIRIEL)
-Any numbness or tingling in fingers, toes, arms or legs?	Je, vidole vya mkono, vidole vya miguu, mikono au miguu hufa ganzi au kutikisita?	CC-BY 2.0 (France) Attribution: tatoeba.org #433763 (CK) & #2705321 (Pfirsichbaeumchen)
-Any memory loss?	Je, wewe hupoteza fahamu?	CC-BY 2.0 (France) Attribution: tatoeba.org #2765357 (arnxy20) & #1313714 (Pfirsichbaeumchen)
-Any trouble with balance or coordination?	Je, una matatizo kusimama wima au kujisawazisha?	CC-BY 2.0 (France) Attribution: tatoeba.org #2765357 (arnxy20) & #6626001 (Felixjp)
-Have you had any falls?	Umewahi kuanguka?	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #976 (MUIRIEL)
-Any mood changes? Any insomnia?	Hisia zako zabadilika ghafla bila kukusudia? Je, unakosa usingizi?	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #444494 (Espi)
-Do you feel down or depressed?	Je, unajihisi kusongwa na kusononeka?	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #722128 (Pfirsichbaeumchen)
-Have you lost pleasure in doing things?	Umekosa hamu au ari ya kufanya mambo?	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #1670006 (Pfirsichbaeumchen)
-Do you see or hear people or things that are not there?	Je, wewe huona au husikia watu au vitu ambavyo havipo?	CC-BY 2.0 (France) Attribution: tatoeba.org #2175 (CS) & #2344583 (Vortarulo)
-Any problem with sex or loss of sex drive?	Je, una matatizo na mambo ya ngono au kupoteza hamu ya ngono?	CC-BY 2.0 (France) Attribution: tatoeba.org #373216 (kotobaboke) & #373376 (lilygilder)
-Any pain with sex?	Je, una uchungu wowote wakati wa ngono?	CC-BY 2.0 (France) Attribution: tatoeba.org #373216 (kotobaboke) & #808911 (Manfredo)
-Any itching, rash or discharge?	Je, una mwasho, vipele au kutoa usaha kwenye ume au uke?	CC-BY 2.0 (France) Attribution: tatoeba.org #373216 (kotobaboke) & #937379 (Sudajaengi)
-Any lesions or sores?	Je, una kuchibuka ngozi au vidonda kwenye ume au uke?	CC-BY 2.0 (France) Attribution: tatoeba.org #2057650 (nava) & #397489 (MUIRIEL)
-Any hernias?	Je, una vimbe zozote kwenye ume au uke?	CC-BY 2.0 (France) Attribution: tatoeba.org #4756252 (cairnhead) & #4756673 (raggione)
-Females: Any problems with your menses?  	Wanawake : Je una matatizo yoyote unapokuwa katika hedhi? 	CC-BY 2.0 (France) Attribution: tatoeba.org #247763 (CK) & #1300435 (cumori) 2.0 (France) Attribution: tatoeba.org #623565 (Dorenda) & #2494159 (Pfirsichbaeumchen)
-Date of your last menstrual period?	Ni lini ulipoenda hedhi mara ya mwisho?	CC-BY 2.0 (France) Attribution: tatoeba.org #4756252 (cairnhead) & #4756673 (raggione)
+Any pain when you take a deep breath?	Unatembea umbali gani bila ya kupumzika?	 
+Any cough or phlegm production?	Kukohoa kwokote au kuwa na makamasi puani au kooni?	
+Have you ever had tuberculosis?	Umewahi kuugua ugonjwa wa kifua kikuu?	
+Have you been exposed to anyone with tuberculosis?	Umewahi kutangamana na yeyote anayeugua ugonjwa wa kifua kikuu?	
+Do you have any chest pains?	Je,una maumivu yoyote kifuani?	
+Do you feel like your heart races or skips beats?	Je, wahisi kuwa moyo wako una mapigo ya kasi au hata kukosa mapigo?	
+Do you have shortness of breath at rest or with small amounts of exertion?	Je, una upungufu fulani unapopumua?	
+Can you lie flat in bed without shortness of breath?	Je, waweza kujilaza twaa kitandani bila ya kuwa na matatizo ya kupumua?	
+Do you ever awake at night short of breath?	Je, wewe huzinduka usingizini usiku kwa sababu ya tatizo la kupumua?	
+Have you ever been told you have a heart murmur?	Je, umewahi kuambiwa una shida ya moyo? 	
+Have you ever had rheumatic fever?	Je, umewahi kuwa na maumivu ya viungo na kufura / kuvimba viungoni?	 
+Any pains in your legs or buttocks when you walk? 	Maumivu yoyote miguuni au makalioni / matakoni unapotembea? 	
+Does it get better when you stop?	Inakua bora unaposimama?	  
+Any loss of hair from your legs or sores that don’t heal?	Kutoweka kwa malaika miguuni au vidonda visivyopona?	
+Any problems with leg swelling or varicose veins?	Je, miguu yako inafura au mshipa mikubwa kujitokeza miguuni?	
+Any breast lumps, pain or soreness?	Je, una vimbe matitini, uchungu wowote au vidonda vyovyote?	
+Any nipple discharge?	Je, unatoa usaha wowote kwenye chuchu?	
+Any rashes, color changes or skin changes?	Je, una vipele, kubadilika kwa rangi matitini au ngozi kubadilika?	
+When was your last mammogram?	Ni lini mara ya mwisho kufanyiwa uchunguzi wa matiti yako kubaini iwapo una saratani ya matiti?	
+Any belly ache/abdominal pain?	Kuumwa kwa tumbo kwa aina yoyote?	
+Any nausea, vomiting, cramping, diarrhea?	Kichefuchefu chochote, kutapika, tumbo kusokota, kuhara / kuendesha?	
+Any heartburn?	Kiungulia chochote?	
+Any constipation?	Haja ngumu yoyote?	
+Any blood in the stool or black tarry stool? Any food intolerance?	Damu yoyote kwenye haja kubwa / kinyesi? Kutokubalika kwa chakula tumboni?	
+Any problems with gallstones? 	Damu yoyote kwenye haja kubwa / kinyesi? 	
+Hepatitis?	Kutokubalika kwa chakula tumboni?	 
+Any increase in frequency of urination?	Kuongezeka kwa mara / idadi ya nyakati wa kukojoa?	
+Do you have to get up at night to urinate? 	Je, wewe huamka na kukojoa usiku? 	
+How many times?	 Mara ngapi?	 
+Do you feel like you need to urinate, then cannot?	Je, wahisi kutaka kukojoa kisha unashindwa kukojoa?	
+Any pain with urination?	Je, una uchungu wowote unapokojoa?	
+Any blood in your urine?	Je, una damu kwenye mkojo wako?	
+Any pain in your back or flanks?	Una maumivu mgongoni au kiunoni?	
+Any weakness?	Una upungufu au udhaifu wowote misulini?	
+Any joint pain, redness, swelling, heat?	Je, kuvimba au joto misulini?	
+Any morning stiffness?	Je, misuli yako hukauka na kuwa migumu wakati wa asubuhi?	
+Any limited movement?	Je, unapungukiwa ukitembea?	
+Any muscle cramping or pain?	Je, misuli yako hujisokota na kuwa na uchungu mkali?	
+Any numbness or tingling in fingers, toes, arms or legs?	Je, vidole vya mkono, vidole vya miguu, mikono au miguu hufa ganzi au kutikisita?	
+Any memory loss?	Je, wewe hupoteza fahamu?	
+Any trouble with balance or coordination?	Je, una matatizo kusimama wima au kujisawazisha?	
+Have you had any falls?	Umewahi kuanguka?	
+Any mood changes? Any insomnia?	Hisia zako zabadilika ghafla bila kukusudia? Je, unakosa usingizi?	
+Do you feel down or depressed?	Je, unajihisi kusongwa na kusononeka?	
+Have you lost pleasure in doing things?	Umekosa hamu au ari ya kufanya mambo?	
+Do you see or hear people or things that are not there?	Je, wewe huona au husikia watu au vitu ambavyo havipo?	
+Any problem with sex or loss of sex drive?	Je, una matatizo na mambo ya ngono au kupoteza hamu ya ngono?	
+Any pain with sex?	Je, una uchungu wowote wakati wa ngono?	
+Any itching, rash or discharge?	Je, una mwasho, vipele au kutoa usaha kwenye ume au uke?	
+Any lesions or sores?	Je, una kuchibuka ngozi au vidonda kwenye ume au uke?	
+Any hernias?	Je, una vimbe zozote kwenye ume au uke?	
+Females: Any problems with your menses?  	Wanawake : Je una matatizo yoyote unapokuwa katika hedhi? 	
+Date of your last menstrual period?	Ni lini ulipoenda hedhi mara ya mwisho?	
 Last Pap test?	Ni lini mara yako ya mwisho kufanyiwa uchunguzi wa kubaini kama una chembechembe zinazosababisha ugonjwa wa saratani ya sehemu ya uzazi?	CC-BY 2.0 (France) Attribution: tatoeba.org #4756252 (cairnhead) & #4756673 (raggione)
